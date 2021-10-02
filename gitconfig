@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sofivissani@gmail.com
+	name = Sofi Vissani
